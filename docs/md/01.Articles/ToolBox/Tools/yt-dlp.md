@@ -2,13 +2,10 @@
 tags:
   - Tool
 create_time: 2024-12-28T17:34:00
-update_time: 2025/03/12 18:48
+update_time: 2025/03/13 23:26
 ---
 
-> [!quote]
-> [yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp)
-
-**yt-dlp** 是一款开源的命令行工具，可以用于从各种视频和音频平台（如 YouTube、Bilibili、Vimeo、Facebook 等）下载视频、音频、字幕以及播放列表。它是 **youtube-dl** 的一个分支，提供了更高的性能和更多的功能。yt-dlp 支持更广泛的网站、格式、选项，并且修复了 youtube-dl 中的一些 bug。
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) 是一款开源的命令行工具，可以用于从各种视频和音频平台（如 YouTube、Bilibili、Vimeo、Facebook 等）下载视频、音频、字幕以及播放列表。它是 **youtube-dl** 的一个分支，提供了更高的性能和更多的功能。yt-dlp 支持更广泛的网站、格式、选项，并且修复了 youtube-dl 中的一些 bug。
 
 主要特点如下所示：
 

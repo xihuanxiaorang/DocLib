@@ -2,10 +2,10 @@
 tags:
   - Tool
 create_time: 2024-12-28T17:32:00
-update_time: 2025/03/12 18:42
+update_time: 2025/03/13 22:56
 ---
 
-> [!quote]
+> [!tip]
 > [GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
 
 ![](https://img.xiaorang.fun/202502251708531.png)

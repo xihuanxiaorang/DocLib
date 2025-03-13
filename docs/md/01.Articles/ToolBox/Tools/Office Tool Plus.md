@@ -2,10 +2,10 @@
 tags:
   - Tool
 create_time: 2024-12-28T17:33:00
-update_time: 2025/02/25 17:27
+update_time: 2025/03/13 23:24
 ---
 
-> [!quote]
+> [!tip]
 > - [Office Tool Plus | 一键部署 Office](https://otp.landian.vip/zh-cn/)
 > - [GitHub - YerongAI/Office-Tool: Office Tool Plus localization projects.](https://github.com/YerongAI/Office-Tool)
 

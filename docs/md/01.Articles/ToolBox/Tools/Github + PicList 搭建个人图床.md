@@ -3,7 +3,7 @@ tags:
   - Tool
   - PicList
 create_time: 2024-12-28T17:34:00
-update_time: 2025/03/12 18:51
+update_time: 2025/03/13 23:20
 ---
 
 ## PicList
@@ -11,7 +11,7 @@ update_time: 2025/03/12 18:51
 [PicList](https://piclist.cn/) 是一款高效的云存储和图床管理工具，在 PicGo 的基础上进行了深度优化，保留了 PicGo 的核心功能并新增了大量实用特性。
 
 - **完全兼容 PicGo 功能**：支持现有的 PicGo 插件，可搭配 Typora、Obsidian 等工具使用。
-- **更多内置图床**：新增 WebDav、本地图床、SFTP 和 Telegra. ph，支持 imgur 登录账号上传。
+- **更多内置图床**：新增 WebDav、本地图床、SFTP 和 Telegra.ph，支持 imgur 登录账号上传。
 - **云端管理**：
     - 支持同步删除云端图片（所有内置图床和多个插件）。
     - 提供高级搜索、排序和批量修改 URL 功能。
@@ -41,7 +41,7 @@ update_time: 2025/03/12 18:51
 - 配置名：填写 `Github`。
 - 仓库名：新建一个公开仓库（如 `img`）作为图床使用，并按照 `用户名/仓库名` 的格式填写。
 - 分支名：可选参数，用于指定图片存储分支，不填写则默认存储在默认分支 `main`。
-- Token：![生成 Github Token](../DevKit/Github.md#生成%20Github%20Token)
+- Token：[生成 Github Token](../DevKit/Github.md#生成%20Github%20Token)
 - 存储路径：可选参数，用于指定图片存储路径，不填写则默认存储在仓库根目录。
 - 自定义域名：可选参数，用于指定图片自定义域名，一般用于 CDN 加速。例如，如果使用了 jsDelivr 加速，可填写：
 
