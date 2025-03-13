@@ -28,7 +28,7 @@ export default defineConfig({
     ],
   ],
   lang: 'zh-CN',
-  ignoreDeadLinks: 'localhostLinks',
+  ignoreDeadLinks: true,
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

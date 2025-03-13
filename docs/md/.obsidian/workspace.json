@@ -63,13 +63,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Articles/ToolBox/DevKit/JDK.md",
+                "file": "01.Articles/Misc/DevIssues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JDK"
+              "title": "DevIssues"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Articles/ToolBox/DevKit/JDK.md",
+                "file": "01.Articles/Misc/DevIssues.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JDK 的大纲"
+              "title": "DevIssues 的大纲"
             }
           },
           {
@@ -271,6 +271,7 @@
   },
   "active": "9bbed510414b75b1",
   "lastOpenFiles": [
+    "01.Articles/ToolBox/DevKit/JDK.md",
     "00.Overview/01 - 任务清单.md",
     "00.Overview/02 - 参考资料.md",
     "01.Articles/ToolBox/DevKit/IDEA.md",
@@ -307,7 +308,6 @@
     "Recommend/Movies/心灵捕手.md",
     "Recommend/Movies/小鞋子.md",
     "Recommend/Movies/当幸福来敲门.md",
-    "Recommend/Movies/寻梦环游记.md",
     "Recommend/Movies",
     "Recommend/Books",
     "Recommend",
