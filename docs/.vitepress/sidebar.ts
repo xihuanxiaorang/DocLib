@@ -5,7 +5,13 @@ export default {
     {
       text: "开发工具",
       base: "/01.Articles/ToolBox/DevKit/",
-      items: [{ text: "IDEA", link: "IDEA" }],
+      items: [
+        { text: "JDK", link: "JDK" },
+        { text: "IDEA", link: "IDEA" },
+        { text: "Git", link: "Git" },
+        { text: "MySQL", link: "MySQL" },
+        { text: "Navicat", link: "Navicat" },
+      ],
     },
   ],
 } as DefaultTheme.Sidebar;

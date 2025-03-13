@@ -2,7 +2,7 @@
 tags:
   - DevKit
 create_time: 2024-12-28T17:27:00
-update_time: 2025/03/12 23:12
+update_time: 2025/03/13 16:24
 ---
 
 ## 快捷键
@@ -88,7 +88,7 @@ File ➡ Settings ➡ Editor ➡ File Types ➡ Ignore Files and Folders，配�
 
 ### Translation
 
-> [!quote]
+> [!tip]
 > 插件地址： [Translation - IntelliJ IDEs Plugin | Marketplace (jetbrains.com)](https://plugins.jetbrains.com/plugin/8579-translation)
 > 官方文档地址：[TranslationPlugin ❤️ Yii.Guxing (yiiguxing.github.io)](https://yiiguxing.github.io/TranslationPlugin/#/)
 
@@ -106,7 +106,7 @@ TranslationPlugin 是一个基于 IntelliJ IDE/Android Studio 的翻译插件。
 
 ### LeetCode Editor
 
-> [!quote]
+> [!tip]
 > 插件地址： [LeetCode Editor - IntelliJ IDEs Plugin | Marketplace (jetbrains.com)](https://plugins.jetbrains.com/plugin/12132-leetcode-editor)
 > 官方文档地址： [leetcode-editor/README_ZH.md at master · shuzijun/leetcode-editor (github.com)](https://github.com/shuzijun/leetcode-editor/blob/master/README_ZH.md)
 

@@ -3,7 +3,7 @@ tags:
   - Git
   - DevKit
 create_time: 2024-12-29 17:30
-update_time: 2025/03/12 21:44
+update_time: 2025/03/13 16:24
 ---
 
 ## 安装
@@ -128,7 +128,7 @@ git push origin main
 
 ### 通过 SSH 连接到 GitHub
 
-> [!quote]
+> [!tip]
 > [生成新的 SSH 密钥并将其添加到 ssh-agent - GitHub 文档](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 步骤如下所示：
@@ -181,7 +181,7 @@ git push origin main
 
 ### 添加许可 LICENSE 到仓库
 
-> [!quote]
+> [!tip]
 > [添加许可到仓库 - GitHub 文档](https://docs.github.com/zh/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 
 步骤如下所示：
