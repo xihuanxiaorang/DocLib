@@ -4,17 +4,14 @@ tags:
   - Frontend
   - DevKit
 create_time: 2024-12-28T17:29:00
-update_time: 2025/03/12 19:17
+update_time: 2025/03/13 22:16
 ---
 
-前期准备： [Node.js](Node.js.md) & [nvm](nvm.md)
+前期准备：『 [nvm](nvm.md) | [Node.js](Node.js.md) 』& [nrm](nrm.md)
 
 ## 介绍
 
-> [!quote]
-> [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
-
-`pnpm` 是一个高效、节省磁盘空间的 Node.js 包管理工具，具有以下特点：
+[pnpm](https://pnpm.io/) 是一个高效、节省磁盘空间的 Node.js 包管理工具，具有以下特点：
 
 + 共享全局存储：通过符号链接机制共享依赖，减少磁盘占用。
 + 安装速度快：利用缓存机制，大幅提升安装效率。

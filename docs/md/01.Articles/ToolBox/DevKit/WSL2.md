@@ -5,7 +5,7 @@ create_time: 2024-12-28T17:30:00
 update_time: 2025/03/12 19:18
 ---
 
-> [!quote]
+> [!tip]
 > 官方文档教程：[旧版 WSL 的手动安装步骤 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/install-manual)
 
 ## Step 1 - 启用适用于 Linux 的 Windows 子系统

@@ -5,7 +5,7 @@ create_time: 2024-12-31 19:00
 update_time: 2025/03/12 19:17
 ---
 
-> [!quote]
+> [!tip]
 > [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 推荐插件

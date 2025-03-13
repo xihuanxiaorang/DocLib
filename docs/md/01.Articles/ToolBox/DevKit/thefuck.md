@@ -3,17 +3,14 @@ tags:
   - DevKit
   - Python
 create_time: 2024-12-28T17:30:00
-update_time: 2025/03/12 19:16
+update_time: 2025/03/13 22:30
 ---
-
-> [!quote]
-> [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
 
 在日常使用命令行的过程中，我们难免会打错命令。每当看到 "command not found" 或者其他错误提示时，我们都希望有一个工具能自动纠正这些错误。幸运的是，有一个名为 The Fuck 的工具可以帮助我们实现这个愿望。
 
 ## What is The Fuck？
 
-The Fuck 是一个开源的命令行工具，它可以智能地纠正你在终端中输入的错误命令。无论是拼写错误、参数错误还是其他常见错误，The Fuck 都能帮你自动修正并重新执行命令。它支持多种常见的 Shell，包括 Bash、Zsh 和 Fish。
+[The Fuck](https://github.com/nvbn/thefuck) 是一个开源的命令行工具，它可以智能地纠正你在终端中输入的错误命令。无论是拼写错误、参数错误还是其他常见错误，The Fuck 都能帮你自动修正并重新执行命令。它支持多种常见的 Shell，包括 Bash、Zsh 和 Fish。
 ![](https://img.xiaorang.fun/202502251804341.gif)
 
 ## Installation

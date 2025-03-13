@@ -2,7 +2,7 @@
 tags:
   - Tool
 create_time: 2025-03-07 18:14
-update_time: 2025/03/12 18:56
+update_time: 2025/03/13 22:45
 refrence_url:
   - https://curl.se/docs/tutorial.html
   - https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
@@ -31,7 +31,7 @@ curl --version
 
 ## 基本用法
 
-> [!quote]
+> [!tip]
 > [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com) 是一个用于测试和原型设计的免费 REST API，提供虚拟的 JSON 数据，适用于前后端开发。
 
 ### 发送 GET 请求
