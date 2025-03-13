@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "9d631a4286ef94c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebde3975f270c16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c13e8f1464970b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00.Overview/01 - 任务清单.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "01 - 任务清单"
+            }
+          },
+          {
+            "id": "a7849d2c9a71e8e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Overview/02 - 参考资料.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02 - 参考资料"
+            }
+          },
+          {
+            "id": "f207a358ecc6d2a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a47b769af8f293c",
+    "type": "split",
+    "children": [
+      {
+        "id": "594555d6553cc8e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd440ffabd7c79fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6c31f0c7ef32fd19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2bf37931a4a9bed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "76335a251dadd2c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "9bbed510414b75b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321
+  },
+  "right": {
+    "id": "18e4f182b17f06f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0d22e332901e24",
+        "type": "tabs",
+        "dimension": 35.077519379844965,
+        "children": [
+          {
+            "id": "69eea5931ab72c09",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9b06b5bf50ee8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ]
+      },
+      {
+        "id": "af22ce4f79718a18",
+        "type": "tabs",
+        "dimension": 64.92248062015504,
+        "children": [
+          {
+            "id": "8f69a94747b12c4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Overview/01 - 任务清单.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01 - 任务清单 的大纲"
+            }
+          },
+          {
+            "id": "d3f90fae39a3925f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02.Inbox/Maven.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Maven 的反向链接列表"
+            }
+          },
+          {
+            "id": "279676ca288eb75b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02.Inbox/Maven.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Maven 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "remotely-save:Remotely Save": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-git:Open Git source control": true,
+      "obsidian-kanban:创建新看板": true,
+      "templater-obsidian:Templater": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "improved-random-note:Open improved random note": false,
+      "obsidian-projects:打开项目": false,
+      "hide-folders:Show hidden folders": false,
+      "media-extended:Open media": true,
+      "pkmer:Open Pkmer Market": true
+    }
+  },
+  "active": "cd440ffabd7c79fa",
+  "lastOpenFiles": [
+    "00.Overview/02 - 参考资料.md",
+    "00.Overview/01 - 任务清单.md",
+    "01.Articles/ToolBox/DevKit/IDEA.md",
+    "public/wechat.png",
+    "public/logo.svg",
+    "public/background.svg",
+    "03.Excalidraw/Java SPI 机制栗子.md",
+    "public/chinaMobile.svg",
+    "03.Excalidraw/Java SPI 运行流程.md",
+    "03.Excalidraw/Java SPI 机制栗子架构图.md",
+    "03.Excalidraw/汉诺塔.md",
+    "public/这个杀手不太冷.webp",
+    "public/研磨设计模式.jpg",
+    "public/寻梦环游记.webp",
+    "public/学透Spring.jpg",
+    "public/心灵捕手.png",
+    "public/肖申克的救赎.png",
+    "03.Excalidraw/双向链表数据结构.md",
+    "03.Excalidraw/单向链表-删除元素.md",
+    "04.Canvas/代码生成器.canvas",
+    "Templates/Diary.md",
+    "Recommend/Movies/飞屋环游记.md",
+    "Recommend/Movies/阿甘正传.md",
+    "Recommend/Movies/这个杀手不太冷.md",
+    "Recommend/Movies/触不可及.md",
+    "Recommend/Movies/肖申克的救赎.md",
+    "Recommend/Movies/绿皮书.md",
+    "Recommend/Movies/盗梦空间.md",
+    "Recommend/Movies/海上钢琴师.md",
+    "Recommend/Movies/活着 (1994).md",
+    "Recommend/Movies/楚门的世界.md",
+    "Recommend/Movies/怦然心动.md",
+    "Recommend/Movies/机器人总动员.md",
+    "Recommend/Movies/心灵捕手.md",
+    "Recommend/Movies/小鞋子.md",
+    "Recommend/Movies/当幸福来敲门.md",
+    "Recommend/Movies/寻梦环游记.md",
+    "Recommend/Movies",
+    "Recommend/Books",
+    "Recommend",
+    "04.Canvas",
+    "03.Excalidraw/Scripts/Downloaded",
+    "03.Excalidraw/Scripts",
+    "03.Excalidraw/fonts/杨任东竹石体.ttf",
+    "03.Excalidraw/fonts",
+    "03.Excalidraw",
+    "Templates",
+    "public/Attachments",
+    "04.Canvas/未命名.canvas",
+    "01.Articles/Reading/阿里巴巴Java开发手册-嵩山版/分层领域模型规约(DO,PO,BO,DTO,VO).canvas",
+    "01.Articles/Reading/Hello 算法/02 - 链表.canvas",
+    "01.Articles/Reading/Hello 算法/01 - 数组.canvas",
+    "04.Canvas/未命名 1.canvas",
+    "01.Articles/AI/本地部署AI大模型.canvas",
+    "04.Canvas/冒泡排序.canvas",
+    "01.Articles/Reading/Hello 算法/排序/冒泡排序.canvas"
+  ]
+}

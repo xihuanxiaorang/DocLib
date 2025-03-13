@@ -1,0 +1,129 @@
+:root {
+  --vp-font-family-base: "HarmonyOS Sans SC", "LXGW WenKai Mono"; /* normal text font */
+  --vp-font-family-mono: "JetBrains Mono", "HarmonyOS Sans SC"; /* code font */
+  --vp-custom-block-info-border: #b1b3b8;
+  --vp-custom-block-note-border: #3367dd;
+  --vp-custom-block-warning-border: #936700;
+  --vp-custom-block-important-border: #7f4be2;
+  --vp-custom-block-tip-border: #3d8937;
+  --vp-custom-block-caution-border: #c11e30;
+
+  body {
+    font-size: 16px;
+  }
+
+  li p {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none; /** no underline */
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  h4,
+  h5 {
+    margin-top: 20px;
+  }
+
+  .VPBadge {
+    font-size: 17px;
+  }
+
+  .vp-doc p {
+    margin: 8px 0;
+  }
+
+  /* 自定义块样式调整 */
+
+  .custom-block {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    border-left: 0.25em solid var(--vp-custom-block-info-border);
+    font-size: 15px;
+    padding: 0 5px 0 16px;
+  }
+
+  .custom-block.note {
+    border-color: var(--vp-custom-block-note-border);
+  }
+
+  .custom-block.warning {
+    border-color: var(--vp-custom-block-warning-border);
+  }
+
+  .custom-block.important {
+    border-color: var(--vp-custom-block-important-border);
+  }
+
+  .custom-block.tip {
+    border-color: var(--vp-custom-block-tip-border);
+  }
+
+  .custom-block.caution {
+    border-color: var(--vp-custom-block-caution-border);
+  }
+
+  .custom-block-title {
+    display: flex;
+    align-items: center;
+  }
+
+  .custom-block-title svg {
+    margin-right: 0.5rem;
+  }
+
+  .custom-block-title .note {
+    color: var(--vp-custom-block-note-border);
+  }
+
+  .custom-block-title .warning {
+    color: var(--vp-custom-block-warning-border);
+  }
+
+  .custom-block-title .important {
+    color: var(--vp-custom-block-important-border);
+  }
+
+  .custom-block-title .tip {
+    color: var(--vp-custom-block-tip-border);
+  }
+
+  .custom-block-title .caution {
+    color: var(--vp-custom-block-caution-border);
+  }
+
+  /* 内容区域加宽显示 */
+  @media (min-width: 1280px) {
+    .VPContent.has-sidebar {
+      padding-right: 10px;
+    }
+
+    .VPDoc.has-sidebar.has-aside {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    .VPDoc.has-sidebar.has-aside .aside {
+      padding: 0;
+    }
+
+    .VPDoc.has-aside .content-container {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  u {
+    /* 下划线与文字的偏移量 */
+    text-underline-offset: 5px;
+    /* 下划线的粗细 */
+    text-decoration-thickness: 3px;
+  }
+}

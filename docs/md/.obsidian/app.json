@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "tabSize": 4,
+  "readableLineLength": false,
+  "attachmentFolderPath": "public",
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02.Inbox",
+  "defaultViewMode": "source",
+  "autoConvertHtml": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "smartIndentList": true
+}

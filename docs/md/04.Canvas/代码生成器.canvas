@@ -1,0 +1,297 @@
+{
+  "edges": [
+    {
+      "fromNode": "8c197581f7705110",
+      "fromSide": "right",
+      "id": "74lFUPZKA8hr",
+      "toNode": "c0db5563473e105e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8c197581f7705110",
+      "fromSide": "right",
+      "id": "AZoFUPZ10roe",
+      "toNode": "0a86c519f0eaabfb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c0db5563473e105e",
+      "fromSide": "right",
+      "id": "dIqFUPZSkBGM",
+      "toNode": "ee782b997b693397",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c0db5563473e105e",
+      "fromSide": "right",
+      "id": "zesFUPZeNB40",
+      "toNode": "424fea01ebc6de5e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c0db5563473e105e",
+      "fromSide": "right",
+      "id": "0xuFUPZbUSig",
+      "toNode": "5b7314983cacef29",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "41eb36819a2daecb",
+      "fromSide": "right",
+      "id": "UOiFUPZ5bawb",
+      "toNode": "30c2424509e45348",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "830720780fc71341",
+      "toNode": "7532e6de152123fe",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "9oIGUPZIuI5H",
+      "toNode": "07ebd530d8d8e5fb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "iKPGUPZKFu5H",
+      "toNode": "df41c83a4facc98d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "iRdGUPZvTjJO",
+      "toNode": "a473d04af138a7c3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "rOjGUPZyk-jQ",
+      "toNode": "dbb2804e02eff8d3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "smoGUPZAmMEb",
+      "toNode": "4b6087f97b436841",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "DNxGUPZ7vlLw",
+      "toNode": "0e0e10f2e5cc1aa8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "30c2424509e45348",
+      "fromSide": "right",
+      "id": "Mp2GUPZefGnS",
+      "toNode": "53d0a6674b90000a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "41eb36819a2daecb",
+      "fromSide": "right",
+      "id": "e65a5ddf3ad33de4",
+      "styleAttributes": {
+      },
+      "toNode": "8c197581f7705110",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 60,
+      "id": "41eb36819a2daecb",
+      "styleAttributes": {
+      },
+      "text": "代码生成器 #Project",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "ee782b997b693397",
+      "styleAttributes": {
+      },
+      "text": "Thymeleaf",
+      "type": "text",
+      "width": 250,
+      "x": 1225,
+      "y": -280
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "424fea01ebc6de5e",
+      "styleAttributes": {
+      },
+      "text": "FreeMarker ",
+      "type": "text",
+      "width": 250,
+      "x": 1225,
+      "y": -200
+    },
+    {
+      "height": 60,
+      "id": "5b7314983cacef29",
+      "styleAttributes": {
+      },
+      "text": "Velocity",
+      "type": "text",
+      "width": 250,
+      "x": 1225,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "c0db5563473e105e",
+      "styleAttributes": {
+      },
+      "text": "模板引擎",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -200
+    },
+    {
+      "height": 60,
+      "id": "0a86c519f0eaabfb",
+      "styleAttributes": {
+      },
+      "text": "数据库元数据",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "8c197581f7705110",
+      "styleAttributes": {
+      },
+      "text": "技术支持",
+      "type": "text",
+      "width": 250,
+      "x": 325,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "30c2424509e45348",
+      "styleAttributes": {
+      },
+      "text": "参考资料\n",
+      "type": "text",
+      "width": 250,
+      "x": 325,
+      "y": 340
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "dbb2804e02eff8d3",
+      "styleAttributes": {
+      },
+      "text": "[​代码生成器原理](https://www.bilibili.com/video/BV1Fe4y1X71g?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 350
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4b6087f97b436841",
+      "styleAttributes": {
+      },
+      "text": "[​手把手带你拥有一款属于你自己的代码生成器](https://www.bilibili.com/video/BV1uG411b7GP?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 430
+    },
+    {
+      "height": 100,
+      "id": "0e0e10f2e5cc1aa8",
+      "styleAttributes": {
+      },
+      "text": "[​EasyJava手把手带你鲁Java代码生成工具【已完结】](https://www.bilibili.com/video/BV1EN4y1c7sL/?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 510
+    },
+    {
+      "height": 100,
+      "id": "53d0a6674b90000a",
+      "styleAttributes": {
+      },
+      "text": "[​前端进阶！从0-1搭建前端快速开发框架！代码生成器！](https://www.bilibili.com/video/BV18f4y1N7HB/?p=21&vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 630
+    },
+    {
+      "height": 60,
+      "id": "a473d04af138a7c3",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "[​一起写个最简单的代码生成器](https://www.bilibili.com/video/BV1v24y1p7Qj?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 270
+    },
+    {
+      "height": 60,
+      "id": "7532e6de152123fe",
+      "styleAttributes": {
+      },
+      "text": "[​使用freemaker实现代码生成器（排序完成版）](https://www.bilibili.com/video/BV1G741117Ds?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 30
+    },
+    {
+      "height": 60,
+      "id": "07ebd530d8d8e5fb",
+      "styleAttributes": {
+      },
+      "text": "[​突破CRUD|简单优雅的代码生成工具诞生记](https://www.bilibili.com/video/BV1iJ41157M5/?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 110
+    },
+    {
+      "height": 60,
+      "id": "df41c83a4facc98d",
+      "styleAttributes": {
+      },
+      "text": "[​告别CRUD，手把手教你实现代码自动生成，酷！](https://www.bilibili.com/video/BV1Vo4y1Z7af/?vd_source=84272a2d7f72158b38778819be5bc6ad)",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 190
+    }
+  ]
+}
