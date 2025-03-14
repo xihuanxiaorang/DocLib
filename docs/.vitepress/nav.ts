@@ -17,4 +17,9 @@ export default [
       },
     ],
   },
+  {
+    text: "🗂️杂记",
+    activeMatch: "/01.Articles/Misc/",
+    link: "/01.Articles/Misc/如何将阿里云域名托管至 Cloudflare？",
+  },
 ] as DefaultTheme.NavItem[];

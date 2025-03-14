@@ -78,13 +78,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Articles/ToolBox/Tools/yt-dlp.md",
+                "file": "01.Articles/Misc/Misc & Ideas & Inbox & Articles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "yt-dlp"
+              "title": "Misc & Ideas & Inbox & Articles"
             }
           }
         ],
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Articles/ToolBox/Tools/yt-dlp.md",
+                "file": "01.Articles/Misc/Misc & Ideas & Inbox & Articles.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "yt-dlp 的大纲"
+              "title": "Misc & Ideas & Inbox & Articles 的大纲"
             }
           },
           {
@@ -286,6 +286,11 @@
   },
   "active": "9bbed510414b75b1",
   "lastOpenFiles": [
+    "01.Articles/Misc/DevIssues.md",
+    "01.Articles/Misc/全面了解 RSS.md",
+    "01.Articles/Misc/如何将阿里云域名托管至 Cloudflare？.md",
+    "01.Articles/Misc/搞定UML类图！.md",
+    "01.Articles/ToolBox/Tools/yt-dlp.md",
     "01.Articles/ToolBox/Tools/Typora.md",
     "01.Articles/ToolBox/Tools/PayPal.md",
     "01.Articles/ToolBox/Tools/Office Tool Plus.md",
@@ -307,11 +312,6 @@
     "01.Articles/ToolBox/DevKit/WSL2.md",
     "01.Articles/ToolBox/DevKit/Windows Terminal.md",
     "01.Articles/ToolBox/DevKit/VSCode.md",
-    "01.Articles/ToolBox/DevKit/thefuck.md",
-    "01.Articles/ToolBox/DevKit/Conda.md",
-    "01.Articles/ToolBox/DevKit/python.md",
-    "01.Articles/ToolBox/DevKit/UNPKG.md",
-    "01.Articles/ToolBox/DevKit/Tomcat.md",
     "public/wechat.png",
     "public/logo.svg",
     "public/background.svg",
