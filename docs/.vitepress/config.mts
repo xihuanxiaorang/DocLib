@@ -1,16 +1,17 @@
-import { defineConfig } from 'vitepress'
-import nav from './nav'
-import sidebar from './sidebar'
-import markdownItPlantuml from "markdown-it-textual-uml"
+import { defineConfig } from "vitepress";
+import nav from "./nav";
+import sidebar from "./sidebar";
+import markdownItPlantuml from "markdown-it-textual-uml";
 import mdItCustomAttrs from "markdown-it-custom-attrs";
 import markdownItTaskLists from "markdown-it-task-lists";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base: '/DocLib/', // 由于使用自定义域名，此处需要注释掉，如果不使用自定义域名的话，可以取消注释
-  title: '小让の码场',
-  description: "包含: Java 核心技术, Spring全家桶, 设计模式, 数据结构与算法, 源码分析，面试宝典...",
-  srcDir: './md',
+  title: "Java笔记学习",
+  description:
+    "包含: Java 核心技术, Spring全家桶, 设计模式, 数据结构与算法, 源码分析，面试宝典...",
+  srcDir: "./md",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
@@ -27,7 +28,7 @@ export default defineConfig({
       },
     ],
   ],
-  lang: 'zh-CN',
+  lang: "zh-CN",
   ignoreDeadLinks: true,
   lastUpdated: true,
   themeConfig: {
@@ -46,12 +47,13 @@ export default defineConfig({
     ],
     footer: {
       message:
-        'Released under the <a href="https://github.com/xihuanxiaorang/DocLib/blob/main/LICENSE">MIT License</a>.',
+        '<a href="https://beian.miit.gov.cn">湘ICP备2022022752号</a> | <a href="https://github.com/xihuanxiaorang/DocLib/blob/main/LICENSE">MIT License</a>.',
       copyright:
-        'Copyright © 2024 <a href="https://github.com/xihuanxiaorang">小让</a>',
+        'Copyright © 2025 <a href="https://github.com/xihuanxiaorang">小让</a>',
     },
     editLink: {
-      pattern: "https://github.com/xihuanxiaorang/DocLib/edit/main/docs/md/:path",
+      pattern:
+        "https://github.com/xihuanxiaorang/DocLib/edit/main/docs/md/:path",
       text: "在 GitHub 上编辑此页面",
     },
     lastUpdated: {
@@ -92,4 +94,4 @@ export default defineConfig({
       port: 8888,
     },
   },
-})
+});

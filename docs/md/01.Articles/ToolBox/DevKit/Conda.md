@@ -120,5 +120,5 @@ custom_channels:
 
 	```bash
 	conda env export > environment.yml   # 导出当前环境到文件
-	conda env create -f environment.yml  # 从 environment.yml 文件创建环境
+	conda env create -f environment.yml  # 从 environment.yml 文件创建环境 
 	```

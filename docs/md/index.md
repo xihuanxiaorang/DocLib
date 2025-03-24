@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "小让の码场"
+  name: "Java笔记学习"
   text: "全栈编程知识体系"
   tagline: 学如逆水行舟不进则退，心似平原走马易放难收
   image:
